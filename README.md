@@ -4,6 +4,7 @@
 ==================================================
 
 🚀 Project Overview
+--------------------------------------------------
 Innovascapers is a mobile application prototype designed using Figma, focusing on innovative solutions for landscaping, gardening, and smart environmental management. The design emphasizes user-friendly interfaces, accessibility, and modern UI/UX principles.
 
 The project includes a complete interactive prototype along with a demo video showcasing the application flow and features.
